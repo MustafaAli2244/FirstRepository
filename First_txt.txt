@@ -1,1 +1,2 @@
-This is my first repository in Git - GitHub course with Osama Elzero
+This is my first repository in Git - GitHub course with Osama Elzero.
+Mustafa Ahmad Abdulrahman
